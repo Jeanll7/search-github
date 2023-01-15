@@ -1,0 +1,27 @@
+.flex {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+.button {
+    margin-left: 5px;
+    height: 2.4rem;
+    width: 5.6rem;
+}
+
+.card {
+    margin: 10px auto;
+}
+
+.card-img {
+    max-width: 25%;
+}
+
+.img {
+    width: 50%;
+}
